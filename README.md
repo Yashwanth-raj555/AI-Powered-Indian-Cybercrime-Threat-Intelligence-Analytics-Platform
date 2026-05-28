@@ -211,7 +211,7 @@ The AI assistant was built using Streamlit and acts as an interactive question-a
 * Helps users understand the dataset without manually reading every chart
 * Can be extended using Gemini, Groq, OpenRouter, or local Pandas-based responses
 
-## AI Assistant Screenshot Link
+## AI Assistant 
 
 ![CyberInsight_AI_Assistant_Screenshot](cyberinsight_ai_assistant.png)
 
