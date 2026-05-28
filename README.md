@@ -213,7 +213,7 @@ The AI assistant was built using Streamlit and acts as an interactive question-a
 
 ## AI Assistant Screenshot Link
 
-[CyberInsight AI Assistant Screenshot](cyberinsight_ai_assistant.png)
+![CyberInsight_AI_Assistant_Screenshot](cyberinsight_ai_assistant.png)
 
 ---
 
